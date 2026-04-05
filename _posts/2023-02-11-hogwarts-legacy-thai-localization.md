@@ -9,6 +9,7 @@ image:
   alt: "ม็อดภาษาไทยฮอกวอตส์เลกาซี"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community]
+exclude: true
 ---
 
 Hogwarts Legacy เป็นเกมแอคชั่น RPG แนวโอเพนเวิลด์ที่ทำให้คุณได้ดื่มด่ำอย่างเต็มอิ่ม ด้วยการควบคุมตัวละครของคุณ และออกไปผจญภัยในโลกแห่งเวทมนตร์

@@ -9,6 +9,7 @@ image:
   alt: "ม็อดภาษาไทย Medeivel Dynasty"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal]
+exclude: true
 ---
 
 > ใช้กับเกมที่ปลดล็อกให้สามารถใช้ม็อดได้แล้วเท่านั้น เกมต้องเป็นเวอร์ชัน 2.3.0.4 (17 February 2025) เท่านั้น ไม่ตรงเวอร์ชันไม่แนะนำให้ใช้

@@ -9,6 +9,7 @@ image:
   alt: "ม็อดภาษาไทย เซนโกคุ ไดนาสตี้"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal]
+exclude: true
 ---
 
 ## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 78.34%)
